@@ -1,3 +1,5 @@
+Atividades React
+
 1. Criar um map no estado de tags
 2. Criar uma nova tag a partir de um input controlado que
 manda dados para a função put no campo “name”
